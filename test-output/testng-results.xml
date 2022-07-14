@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launcing browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed After Testing]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-14T01:05:37 BST" name="Suite" finished-at="2022-07-14T01:05:54 BST" duration-ms="16438">
+    <groups>
+    </groups>
+    <test started-at="2022-07-14T01:05:37 BST" name="Test" finished-at="2022-07-14T01:05:54 BST" duration-ms="16438">
+      <class name="ChallengingDom.heroChallengingDom.HomeTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:37 BST" name="initialize" finished-at="2022-07-14T01:05:49 BST" duration-ms="11109" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launcing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="checkAlertButtonTextAfterClick()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:49 BST" name="checkAlertButtonTextAfterClick" description="Check weather text on alert button changes after click " finished-at="2022-07-14T01:05:50 BST" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlertButtonTextAfterClick -->
+        <test-method signature="checkAnswerClickSuccess()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:50 BST" name="checkAnswerClickSuccess" description="compare answer after clicking on the success button" finished-at="2022-07-14T01:05:51 BST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAnswerClickSuccess -->
+        <test-method signature="checkButtonTextAfterClick()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:51 BST" name="checkButtonTextAfterClick" description="check normal,alert buttons text changes when clicking success button" finished-at="2022-07-14T01:05:51 BST" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkButtonTextAfterClick -->
+        <test-method signature="checkPageHeading()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:51 BST" name="checkPageHeading" description="Check the heading diplays correctly" finished-at="2022-07-14T01:05:52 BST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPageHeading -->
+        <test-method signature="deleteTableFirstRow()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="deleteTableFirstRow" description="Click on delete link of first row inside table" finished-at="2022-07-14T01:05:52 BST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTableFirstRow -->
+        <test-method signature="displayHeadingDiscription()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="displayHeadingDiscription" description="Check the heading description diplays correctly" finished-at="2022-07-14T01:05:52 BST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayHeadingDiscription -->
+        <test-method signature="editTableFirstRow()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="editTableFirstRow" description="Click on edit link of first row inside table" finished-at="2022-07-14T01:05:52 BST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editTableFirstRow -->
+        <test-method signature="printFirstRow()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="printFirstRow" description="Printing values of first row" finished-at="2022-07-14T01:05:52 BST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printFirstRow -->
+        <test-method signature="printTableHeadings()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="printTableHeadings" description="Printing table headings" finished-at="2022-07-14T01:05:52 BST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTableHeadings -->
+        <test-method signature="validateFooter()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="validateFooter" description="validate footer" finished-at="2022-07-14T01:05:52 BST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFooter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ChallengingDom.heroChallengingDom.HomeTest@7b993c65]" started-at="2022-07-14T01:05:52 BST" name="tearDown" finished-at="2022-07-14T01:05:54 BST" duration-ms="1549" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed After Testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ChallengingDom.heroChallengingDom.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
