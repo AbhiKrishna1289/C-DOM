@@ -1,2 +1,2 @@
 # C-DOM
-C-DOm Selenium Automation Project
+C-DOM Selenium Automation Project
